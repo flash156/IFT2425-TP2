@@ -1,0 +1,35 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+
+\begin{document}
+
+\section*{Conjugue les verbes entre parenthèses au futur simple:}
+
+\begin{enumerate}
+    \item Demain je \textbf{partirai} à Paris. (partir)
+    \item Il \textbf{voudra} faire du sport. (vouloir)
+    \item Demain je \textbf{irai} au bord de la mer. (aller)
+    \item Qu'est-ce que tu \textbf{feras} demain ? (faire)
+    \item On \textbf{préparera} les valises avant de partir. (préparer)
+    \item Vous \textbf{pourrez} m'aider ? (pouvoir)
+    \item Nous \textbf{passerons} les vacances au bord de la mer. (passer)
+    \item L'année prochaine, il \textbf{sera} en 3\ieme{} année préparatoire. (être)
+    \item Ils \textbf{verront} le match au stade. (voir)
+    \item Il \textbf{faudra} se lever de bonne heure. (falloir)
+\end{enumerate}
+
+\section*{Trouve les questions:}
+
+\begin{enumerate}
+    \item \textbf{Où vas-tu en vacances ?} Je vais à la mer en vacances.
+    \item \textbf{Comment vas-tu ?} / \textbf{Par quel moyen de transport vas-tu ?} Je vais en bus.
+    \item \textbf{Qu'est-ce que tu vas faire pendant le camping ?} Je vais faire du camping.
+\end{enumerate}
+
+\end{document}
+
